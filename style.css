@@ -1,0 +1,27 @@
+body{
+    font-size: 20px;
+    
+
+}
+h1{
+    color: red;
+}
+.titulo{
+color: blue;
+
+}
+.sublinhado{
+text-decoration: underline;
+}
+h1.titulo{
+color: aqua;
+}
+.link:hover {
+color: aquamarine;
+text-decoration: underline;
+cursor: pointer;
+
+}
+#sub{
+color: purple;
+}
