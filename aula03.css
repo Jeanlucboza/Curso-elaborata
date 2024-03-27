@@ -1,0 +1,26 @@
+.caixa{
+    border: 1px solid aqua;
+    padding: 5px;
+    height: 120px;
+    display: inline-block;
+   }
+    .logo{
+        width: 40%;
+    }
+    .entrada{
+        width: 50%;
+        display: inline-block;
+        
+    }
+.botão{
+    margin-top: 10px;
+    background-color: lime;
+    border: 1px solid darkgreen;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.botão:hover{
+    background-color: green;
+    color: white;
+}
