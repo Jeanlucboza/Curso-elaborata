@@ -1,27 +1,8 @@
-body{
-    font-size: 20px;
-    
-
+.box{
+    border: 1px solid rgb(250, 230, 0);
+    height: 100px;
+    background-color: rgb;
 }
-h1{
-    color: red;
-}
-.titulo{
-color: blue;
-
-}
-.sublinhado{
-text-decoration: underline;
-}
-h1.titulo{
-color: aqua;
-}
-.link:hover {
-color: aquamarine;
-text-decoration: underline;
-cursor: pointer;
-
-}
-#sub{
-color: purple;
+.logo{
+    width: 150px;
 }
