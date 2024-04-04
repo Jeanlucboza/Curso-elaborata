@@ -1,0 +1,36 @@
+body{
+    background-image: url(../media/WhatsApp\ Image\ 2024-04-04\ at\ 10.05.32\ AM.jpeg);
+}
+.box{
+    border: 3px solid white ;
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+.login{
+    color: white;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 30%;
+}
+.user{
+    border-color: white;
+    background-color: transparent;
+    border-radius: 20px;
+}
+.senha{
+    border-color: white;
+    margin-top: 10%;
+    background-color: transparent;
+    border-radius: 20px;
+}
+.botao{
+    border-color: white;
+    color: white;
+    margin-top: 10%;
+    background-color: transparent;
+    border-radius: 20px;
+
+}
